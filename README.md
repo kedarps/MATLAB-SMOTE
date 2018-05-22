@@ -1,7 +1,7 @@
 # MATLAB-SMOTE
 Matlab implementation of Synthetic Minority Oversampling Technique (SMOTE)
 
-A technique to generate synthetic samples as given in: https://www.jair.org/media/953/live-953-2037-jair.pdf
+A technique to generate synthetic samples as given by [Chawla et. al., 2002](https://arxiv.org/pdf/1106.1813.pdf)
 
 ##   Usage:
 `X_smote = mySMOTE(X, N, k)` 
